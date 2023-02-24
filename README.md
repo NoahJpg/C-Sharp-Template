@@ -1,8 +1,8 @@
 # _Project Name_
 
-#### By _**Richard Cha**_
+#### By _**Noah Atkinson**_
 
-#### _Choose from Pastry or Bread, give amount, and return total cost_
+#### _Description_
 
 ## Technologies Used
 
@@ -34,7 +34,7 @@ _If the user is done adding items to the cart, the program will display their ca
 
 ## License
 
-_If you have any issues or have questions, ideas or concerns please contact me at [charichard09@gmail.com](mailto:charichard09@gmail.com)_
+_If you have any issues or have questions, ideas or concerns please contact me at [noahatkinson1.1@gmail.com](mailto:noahatkinson1.1@gmail.com)_
 
 MIT License
 
@@ -56,4 +56,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) _12-09-22_ _Richard Cha_
+Copyright (c) _2023_ _Noah Atkinson_
